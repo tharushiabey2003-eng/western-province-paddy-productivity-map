@@ -69,6 +69,7 @@ Allows farmers or community members to select a field location and submit actual
 - OpenStreetMap – potential irrigation and water-source information
 - Department of Census and Statistics, Sri Lanka – historical paddy productivity data
 - GADM – administrative boundaries
+- Ground observations - from the studio field visits
 
 ## Important Note
 
